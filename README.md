@@ -1,1 +1,1 @@
-.# Dynamic-manager-
+# Dynamic-manager-
